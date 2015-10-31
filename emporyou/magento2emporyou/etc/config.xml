@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Openstepmedia_AdminProductUrl>
+        <emporyou_magento2emporyou>
             <version>0.1</version>
-        </Openstepmedia_AdminProductUrl>
+        </emporyou_magento2emporyou>
     </modules>
     <global>
         <blocks>
             <adminhtml>
                 <rewrite>
-                    <catalog_product_edit>Openstepmedia_AdminProductUrl_Adminhtml_Block_Catalog_Product_Edit</catalog_product_edit>
+                    <catalog_product_edit><emporyou_magento2emporyou>_Adminhtml_Block_Catalog_Product_Edit</catalog_product_edit>
                 </rewrite>
             </adminhtml>
         </blocks>
