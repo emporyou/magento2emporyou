@@ -1,4 +1,3 @@
-magento-ext-adminproducturl
+magento2emporyou
 ===========================
-
-Magento Extension for adding a link to the product url on the product admin page
+Magento Extension to enable integration with emporyou.com
