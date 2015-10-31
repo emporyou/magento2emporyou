@@ -1,3 +1,3 @@
 magento2emporyou
 ===========================
-Magento Extension to enable integration with emporyou.com
+Magento extension to enable integration with emporyou.com
