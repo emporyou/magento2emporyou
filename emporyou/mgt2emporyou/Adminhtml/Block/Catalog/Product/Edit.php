@@ -1,8 +1,8 @@
 <?php
 /**
- * Openstep Media
- * http://www.openstepmedia.com
- * Create a simple preview link for a product from the Admin area
+ * Emporyou.com
+ * http://emporyou.com
+ * Create a simple link for a product from the Admin area to open the emporyou coupon maker.
  */
 
 /**
