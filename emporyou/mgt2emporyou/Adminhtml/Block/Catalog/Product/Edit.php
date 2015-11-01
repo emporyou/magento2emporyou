@@ -10,7 +10,7 @@
  *
  * @category   Mage
  * @package    Mage_Adminhtml
- * @author     Seth Markowitz <seth@openstepmedia.com>
+ * @author     Hideki Yamamoto <hideki@yamamoto.mx>
  */
 class emporyou_magento2emporyou_Adminhtml_Block_Catalog_Product_Edit extends Mage_Adminhtml_Block_Catalog_Product_Edit
 {
