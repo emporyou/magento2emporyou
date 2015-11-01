@@ -9,7 +9,7 @@
         <blocks>
             <adminhtml>
                 <rewrite>
-                    <catalog_product_edit><emporyou_magento2emporyou>_Adminhtml_Block_Catalog_Product_Edit</catalog_product_edit>
+                    <catalog_product_edit>emporyou_magento2emporyou_Adminhtml_Block_Catalog_Product_Edit</catalog_product_edit>
                 </rewrite>
             </adminhtml>
         </blocks>
